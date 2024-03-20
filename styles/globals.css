@@ -1,3 +1,7 @@
+.background {
+   background-image: url("https://solanatigers.com/assets/images/roadmap/bg.jpg");
+}
+
 :root {
   --max-width: 1100px;
   --border-radius: 12px;
