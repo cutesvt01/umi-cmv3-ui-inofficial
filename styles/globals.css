@@ -16,6 +16,11 @@
     --secondary-background-rgb: 249, 250, 251;
     --tertiary-background-rgb: 209, 213, 219;
     --hover-background-rgb: 243, 244, 246;
+    --background-image: url(https://solanatigers.com/images/brand/bg-shape.png);
+    --background-repeat: no-repeat;
+    --background-size: cover;
+    --background-position: center;
+    --background-position: initial;
 }
 
 @media (prefers-color-scheme: dark) {
